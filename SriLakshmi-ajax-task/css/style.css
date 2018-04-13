@@ -1,0 +1,26 @@
+.wrapper {
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 20px;
+}
+
+.results  {
+  margin-top:20px;
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;  
+}
+
+.panel-heading {
+  text-align:center;
+  font-weight:bold;
+  background: #DCDCDC;
+  padding-top:5px;
+  padding-bottom:5px;
+}
+
+.row {
+  text-align:center;
+  padding-top: 5px;
+}

@@ -1,0 +1,1 @@
+Run the html file on Server for loading the JSON File
